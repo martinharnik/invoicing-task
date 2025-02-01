@@ -8,7 +8,7 @@ The key file for running this script is `main.ipynb`.
 ---
 
 ## **1. Load and Prepare Data**
-- Reads an **Excel file** (`Connect_analyst_priklad.xlsx`) and loads the sheet `"Sheet1"`.
+- Reads an **Excel file** (`Connect_analyst_priklad.xlsx`)
 - Converts the `ACCOUNTING_MONTH_KEY` column into a **datetime format**.
 - Aggregates revenue at a **monthly level**.
 - Creates **time-based features**:
