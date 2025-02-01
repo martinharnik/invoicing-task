@@ -3,6 +3,8 @@
 ## Overview
 This script performs **time series forecasting** for revenue data using **XGBoost regression**, incorporating **rolling forecast validation**, **hyperparameter tuning**, and **bootstrapped confidence intervals**. It forecasts the next 12 months of revenue and visualizes the predictions with uncertainty bounds.
 
+The key file for running this script is `main.ipynb`.
+
 ---
 
 ## **1. Load and Prepare Data**
